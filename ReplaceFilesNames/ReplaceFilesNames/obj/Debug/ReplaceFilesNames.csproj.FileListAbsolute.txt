@@ -1,0 +1,15 @@
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.exe.config
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.exe
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.pdb
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.csprojResolveAssemblyReference.cache
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.exe
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.pdb
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.exe.config
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.exe
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.pdb
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.exe
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.pdb
+j:\Vlodke.by\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.csprojResolveAssemblyReference.cache
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\ReplaceFilesNames\bin\Debug\ReplaceFilesNames.exe.config
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.exe
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\ReplaceFilesNames\obj\Debug\ReplaceFilesNames.pdb

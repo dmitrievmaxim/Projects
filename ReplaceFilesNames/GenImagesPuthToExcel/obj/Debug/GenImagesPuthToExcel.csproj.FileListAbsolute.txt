@@ -1,0 +1,12 @@
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.exe.config
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.exe
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.pdb
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.csprojResolveAssemblyReference.cache
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.exe
+J:\Vlodke.by\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.pdb
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.exe.config
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.exe
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.pdb
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.exe
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\bin\Debug\GenImagesPuthToExcel.pdb
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GenImagesPuthToExcel\obj\Debug\GenImagesPuthToExcel.csprojResolveAssemblyReference.cache

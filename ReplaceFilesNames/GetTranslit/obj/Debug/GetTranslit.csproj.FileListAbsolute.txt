@@ -1,0 +1,12 @@
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\bin\Debug\GetTranslit.exe.config
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\bin\Debug\GetTranslit.exe
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\bin\Debug\GetTranslit.pdb
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.csprojResolveAssemblyReference.cache
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.exe
+C:\Users\SBT-Dmitriev-MV\Desktop\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.pdb
+j:\Vlodke.by\ReplaceFilesNames\GetTranslit\bin\Debug\GetTranslit.exe.config
+j:\Vlodke.by\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.exe
+j:\Vlodke.by\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.pdb
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GetTranslit\bin\Debug\GetTranslit.exe.config
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.exe
+D:\Dev\CurrentProjects\Vlodke\Content\ReplaceFilesNames\GetTranslit\obj\Debug\GetTranslit.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceFilesNames", "ReplaceFilesNames\ReplaceFilesNames.csproj", "{948DD726-328B-4C93-B772-6B414BBA026A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTranslit", "GetTranslit\GetTranslit.csproj", "{AF84BFD7-BF5E-4475-9484-5CD894BF3ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenImagesPuthToExcel", "GenImagesPuthToExcel\GenImagesPuthToExcel.csproj", "{16E481B3-077B-4A2E-A6A0-E9CB49B31243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948DD726-328B-4C93-B772-6B414BBA026A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948DD726-328B-4C93-B772-6B414BBA026A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948DD726-328B-4C93-B772-6B414BBA026A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948DD726-328B-4C93-B772-6B414BBA026A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF84BFD7-BF5E-4475-9484-5CD894BF3ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF84BFD7-BF5E-4475-9484-5CD894BF3ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF84BFD7-BF5E-4475-9484-5CD894BF3ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF84BFD7-BF5E-4475-9484-5CD894BF3ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E481B3-077B-4A2E-A6A0-E9CB49B31243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E481B3-077B-4A2E-A6A0-E9CB49B31243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E481B3-077B-4A2E-A6A0-E9CB49B31243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E481B3-077B-4A2E-A6A0-E9CB49B31243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
